@@ -86,3 +86,5 @@ loadstring(game:HttpGet("https://obj.wearedevs.net/2/scripts/Gravity%20Switch.lu
 Kayak Racing
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/KayakRacing"))()
+
+UPDATE IN (1.5 DAYS)
