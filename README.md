@@ -87,4 +87,8 @@ Kayak Racing
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/KayakRacing"))()
 
-UPDATE IN (1.5 DAYS)
+Suggestion Erea
+
+Copy the link and paste in in you browser and suggest a game!
+
+https://docs.google.com/forms/d/e/1FAIpQLSd1TUQ9Pb6GbibRvURlqTIGo2-nZRtGua-WiqDCiKbrfLCnoA/viewform?usp=publish-editor
