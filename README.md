@@ -92,3 +92,8 @@ Suggestion Erea
 Copy the link and paste in in you browser and suggest a game!
 
 https://docs.google.com/forms/d/e/1FAIpQLSd1TUQ9Pb6GbibRvURlqTIGo2-nZRtGua-WiqDCiKbrfLCnoA/viewform?usp=publish-editor
+
+Cheat Hub (Made by me)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Santa22we/AdminMenu/refs/heads/main/README.md"))()
+
